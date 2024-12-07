@@ -18,7 +18,7 @@
 
 ###
 
-<p align="center">Final Year of [Bachelor of Information Technology at Curtin University](https://www.curtin.edu.au/study/offering/course-ug-bachelor-of-information-technology--b-inftec/)<br>Letter of Commendation, Faculty of Science and Engineering, 2024</p>
+<p align="center">Final Year of <b>Bachelor of Information Technology</b> at Curtin University<br><b>Letter of Commendation</b>, Faculty of Science and Engineering, 2024</p>
 
 ###
 
