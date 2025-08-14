@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Hi I am Ivan, a back-end programmer in Perth Australia. <br>I love Monty Python, Software Development, Traveling, and Rock Climbing. <br>In my spare time I study Cryptography, Cyber Security and Philosophy</p>
+<p align="center">Hi I am Ivan, a <b>Linux programmer</b> in Perth Australia. <br>I love Monty Python, Software Development, Travelling, and Social Rock Climbing. <br></p>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="center">Final Year of <b>Bachelor of Information Technology</b> at Curtin University<br><b>Letter of Commendation</b>, Faculty of Science and Engineering, 2024</p>
+<p align="center">Graduate <b>Bachelor of Information Technology</b> at Curtin University, end of 2025<br><b>Letter of Commendation</b>, Faculty of Science and Engineering, 2024</p>
 
 ###
 
@@ -42,12 +42,6 @@
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=9A28AE&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <a href="https://www.instagram.com/_clumsygiraffe_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=F34536&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="discordapp.com/users/349739853661077506" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=1875D1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
 </div>
 
 ###
