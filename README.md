@@ -41,7 +41,9 @@
   <a href="Ivan.Bezuidenhout@proton.me" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=9A28AE&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/ivanbez42/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
