@@ -12,7 +12,7 @@
 
 <p align="center">
   <b><a href="https://github.com/IvanBez42/OverviewCalculator">Overview Calculator (Gnome Extension)</a></b> 
-  <img src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/IvanBez42/e06cdbc154ba4114889a5ecd20ceae98/raw/cd49fa5e002497bfda08256d09f5ff2a3964ba49/badge.json" alt="Extention downloads" />
+  <img src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/IvanBez42/e06cdbc154ba4114889a5ecd20ceae98/raw/833a3f7d6ba03bf7af87908939542a33cd1b2216/OverviewCalculatorDownloads.json" alt="Extention downloads" />
   <img src="https://img.shields.io/github/stars/IvanBez42/OverviewCalculator?style=flat&color=yellow" alt="GitHub stars" />
   <img src="https://img.shields.io/github/languages/top/IvanBez42/OverviewCalculator?style=flat" alt="GitHub language" />
 </p>
