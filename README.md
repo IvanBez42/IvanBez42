@@ -10,7 +10,12 @@
 
 ###
 
-<p align="center">Coming Soon</p>
+<p align="center">
+  <b><a href="https://github.com/IvanBez42/OverviewCalculator">Overview Calculator (Gnome Extension)</a></b> 
+  <img src="https://img.shields.io/endpoint?url=" alt="Extention downloads" />
+  <img src="https://img.shields.io/github/stars/IvanBez42/OverviewCalculator?style=flat&color=yellow" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/languages/top/IvanBez42/OverviewCalculator?style=flat" alt="GitHub language" />
+</p>
 
 ###
 
