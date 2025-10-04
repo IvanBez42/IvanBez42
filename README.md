@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Hi I am Ivan, a <b>Linux programmer</b> in Perth Australia. <br>I love Monty Python, Software Development, Travelling, and Social Rock Climbing. <br></p>
+<p align="center">Hi I am Ivan, a Software Engineer in Perth Australia. <br>I love Monty Python, Software Development, Travelling, and Social Rock Climbing. <br></p>
 
 ###
 
